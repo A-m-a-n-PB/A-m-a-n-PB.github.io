@@ -1,8 +1,10 @@
 {
   "name": "pbd",
   "version": "0.0.0",
+  "homepage": "https://A-m-a-n-PB.github.io/react-gh-pages",
   "private": true,
   "scripts": {
+    "predeploy": "npm run build",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
@@ -24,7 +26,8 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.6.3",
-    "@docusaurus/types": "3.6.3"
+    "@docusaurus/types": "3.6.3",
+    "gh-pages": "^6.2.0"
   },
   "browserslist": {
     "production": [

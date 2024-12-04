@@ -6,10 +6,12 @@ sidebar_position: 3
 
 Public Page allows you to **change your club’s public page/website** and its details.
 
-## General > Pricing
-Change the Pricing Structure of your Club. 
+## General
 
-### Edit a Pre-existing Featured Plan Title
+### Pricing
+Change the pricing structure of your Club's plans.
+
+#### Edit a Pre-existing Featured Plan Title
 
 To edit a pre-existing club title, navigate through **Organizations > Public Page > General > Pricing**.
 Enter the new club title in the Title input area, click on Save to save the title.
@@ -19,8 +21,9 @@ Enter the new club title in the Title input area, click on Save to save the titl
 > ![Editing Pre-existing Plan Title](./img\featured-plan-title.png)
 
 
+---
 
-### Edit a Pre-existing Featured Plan Sub-Title
+#### Edit a Pre-existing Featured Plan Sub-Title
 
 To edit a pre-existing club sub-title, navigate through **Organizations > Club Page > General > Pricing**.
 Edit the new club sub-title in the Sub-Title input area, click on Save to save the title.
@@ -30,7 +33,7 @@ Edit the new club sub-title in the Sub-Title input area, click on Save to save t
 
 ---
 
-### Add a Featured Plan
+#### Add a Featured Plan
 
 A fully-featured plan with prices and benefits for the customers/users. 
 
@@ -43,3 +46,168 @@ To add a new Featured Plan, navigate to **Club Page > Featured** page.
 3.	Select **Plan Interval** and click on the **Save** button to save your new featured plan.
 
 > **Note:** You can also set the Featured Plan of choice as the Popular Option (the default Featured Plan for the user), by tapping on the ‘**Use as most popular option**’, radio button.
+
+---
+
+#### Preview Your Page
+
+The Preview option helps you see the new changes made to a specific section of your Public page before publishing those changes. 
+
+To see the preview, click on the **Preview** option on the top-right of the page. 
+It will render a preview of what your new changes will look like on your club’s Public page.
+
+If you are satisfied with how the new changes look, you can publish it by clicking the **Save** button. It’ll make your changes appear on your Public page.
+
+
+---
+
+#### Show On Page
+
+This option/feature helps publicly display the added section/information on your Club/Public Page.
+
+To show the specific section on your club’s Public page, you can toggle the **Show on Page** option on or off.
+
+> **Note:** If you choose to toggle off the Show on Page option, the section/information will not be available on your club’s Public page.
+
+
+### Featured Services
+Change/Add your club's featured services.
+
+#### Add a Featured Service Title
+
+To add a Featured Service Title, navigate through **Organizations > Public Page > General > Featured Services:**
+
+1. Enter the new service title in the **Title** input area.
+2. Click on **Save** to save the service title.
+
+> **Note:** Featured Service should have max character length of 75 characters.
+
+<!-- > ![Editing Pre-existing Plan Title](./img\featured-plan-title.png) -->
+
+
+---
+
+#### Add a Featured Service Subtitle
+
+You can add subtitle for your Featured Service displaying more information about the service for the user. 
+
+To add a Featured Service Subtitle, navigate through **Organizations > Public Page > General > Featured Services:**
+
+1. Enter the new service subtitle in the **Subtitle** input area.
+2. Click on **Save** to save the service subtitle.
+
+> **Note:** Featured Service Subtitle should have max character length of 75 characters.
+
+<!-- > ![Editing Pre-existing Plan Title](./img\featured-plan-title.png) -->
+
+
+---
+
+#### Add a New Service
+
+If your club is planning to offer a new service to its customers/users, you can inform your users by adding a new service and displaying it on your Public Page. 
+
+To add a new Service for your club, navigate through **Organizations > Public Page > General > Featured Services:**
+
+1. Click on **+Add Service**. 
+2. Enter/Select **Service Name**.
+3. Enter the **Service Description** (should be under 150 words). 
+4. click on the **Save** button to save your new featured service
+
+<!-- > ![Editing Pre-existing Plan Title](./img\featured-plan-title.png) -->
+
+
+---
+
+#### Preview Your Page
+
+The Preview option helps you see the new changes made to a specific section of your Public page before publishing those changes. 
+
+To see the preview, click on the **Preview** option on the top-right of the page. 
+It will render a preview of what your new changes will look like on your club’s Public page.
+
+If you are satisfied with how the new changes look, you can publish it by clicking the **Save** button. It’ll make your changes appear on your Public page.
+
+
+---
+
+#### Show On Page
+
+This option/feature helps publicly display the added section/information on your Club/Public Page.
+
+To show the specific section on your club’s Public page, you can toggle the **Show on Page** option on or off.
+
+> **Note:** You can show up to 3 Featured Services on your Public Page. If you choose to toggle off the Show on Page option, the section/information will not be available on your club’s Public page.
+
+--- 
+
+### Testimonials
+Testimonials are comments and reviews your users/customers have made about your club, its services, its facilities, etc. 
+
+You can choose to display these testimonials on your club page for your users/customers to see. 
+
+#### Add a Testimonial Title
+
+To add a customer Testimonial Title, navigate through **Organizations > Public Page > General > Testimonials:**
+
+1. Enter the new service title in the **Title** input area.
+2. Click on **Save** to save the service title.
+
+> **Note:** Featured Service should have max character length of 75 characters.
+
+<!-- > ![Editing Pre-existing Plan Title](./img\featured-plan-title.png) -->
+
+
+---
+
+#### Add a Featured Service Subtitle
+
+You can add subtitle for your Featured Service displaying more information about the service for the user. 
+
+To add a Featured Service Subtitle, navigate through **Organizations > Public Page > General > Featured Services:**
+
+1. Enter the new service subtitle in the **Subtitle** input area.
+2. Click on **Save** to save the service subtitle.
+
+> **Note:** Featured Service Subtitle should have max character length of 75 characters.
+
+<!-- > ![Editing Pre-existing Plan Title](./img\featured-plan-title.png) -->
+
+
+---
+
+#### Add a New Service
+
+If your club is planning to offer a new service to its customers/users, you can inform your users by adding a new service and displaying it on your Public Page. 
+
+To add a new Service for your club, navigate through **Organizations > Public Page > General > Featured Services:**
+
+1. Click on **+Add Service**. 
+2. Enter/Select **Service Name**.
+3. Enter the **Service Description** (should be under 150 words). 
+4. click on the **Save** button to save your new featured service
+
+<!-- > ![Editing Pre-existing Plan Title](./img\featured-plan-title.png) -->
+
+
+---
+
+#### Preview Your Page
+
+The Preview option helps you see the new changes made to a specific section of your Public page before publishing those changes. 
+
+To see the preview, click on the **Preview** option on the top-right of the page. 
+It will render a preview of what your new changes will look like on your club’s Public page.
+
+If you are satisfied with how the new changes look, you can publish it by clicking the **Save** button. It’ll make your changes appear on your Public page.
+
+
+---
+
+#### Show On Page
+
+This option/feature helps publicly display the added section/information on your Club/Public Page.
+
+To show the specific section on your club’s Public page, you can toggle the **Show on Page** option on or off.
+
+> **Note:** You can show up to 3 Featured Services on your Public Page. If you choose to toggle off the Show on Page option, the section/information will not be available on your club’s Public page.
