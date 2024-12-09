@@ -1,8 +1,8 @@
 ---
-sidebar_position: 11
+sidebar_position: 6
 ---
 
-# Member Upload
+# Services
 
 You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
 

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 10
+sidebar_position: 6
 ---
 
-# Terms & Conditions
+# Services
 
 You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
 
